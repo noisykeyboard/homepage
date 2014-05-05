@@ -100,8 +100,8 @@ main #search form .input:focus {
     opacity: 1;
 }
 
-main #search form.google input {
-    background-image: url('images/google.png');
+main #search form.startpage input {
+    background-image: url('images/startpage.png');
 }
 
 main #search form.youtube input {
